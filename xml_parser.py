@@ -36,5 +36,5 @@ for v in range(len()): # LOOP for number of commandline arugments
         for i in range(x):   # LOOP for number of count of vc_volumes
 
                 if str(''.join(root[i].attrib['KEYWORD_attrib'])) ==  "KEYWORD" :
-                        print "Volume Name : " + root[i].attrib['KEYWORD_attrib']
+                        print "Key Name : " + root[i].attrib['KEYWORD_attrib']
 
