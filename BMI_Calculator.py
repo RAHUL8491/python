@@ -1,11 +1,5 @@
 """
 GUI APP to Calulate BMI
-
-#Author : Satheesh Gopalan
-
-#Version 1
-
-# On the date of 1st Aug 2017
 """
 
 import Tkinter
