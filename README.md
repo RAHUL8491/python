@@ -2,6 +2,6 @@
 
 
 * Codes I'd like to reuse
+* XML parser Template
+* Practice usage of Tkinter for GUI
 
-
-* Practice usage of Tkinter
