@@ -1,8 +1,5 @@
 """
 GUI APP to Flip a coin
-#Author : Satheesh Gopalan
-#Version 1
-# On the date of 11st Aug 2017
 """
 import Tkinter
 from Tkinter import *
