@@ -2,10 +2,6 @@
 GUI APP to convert currency 1 to currency 2's value given exchange rate
 
 #Author : Satheesh Gopalan
-
-#Version 1
-
-# On the date of 26 July 2017
 """
 
 import Tkinter
