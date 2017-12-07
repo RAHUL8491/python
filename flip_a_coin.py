@@ -22,5 +22,5 @@ root.title("FLIP A COIN")
 B = Tkinter.Button(root, text="FLIP!", command=OnClick)
 B.pack()
 B.grid_location(30, 30)
-# LOOP IT TILL YOU MAKE IT
+#Loop
 root.mainloop()
